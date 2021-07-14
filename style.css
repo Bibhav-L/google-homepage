@@ -95,12 +95,6 @@ a, a:link, a:visited {
     background-color: #2b7de9;
 }
 
-.main {
-    margin: 2rem 0;
-    flex: 1;
-    display: flex;
-    align-items: center;
-}
 .container {
     max-width: 58.4rem;
     margin: 0 auto;
